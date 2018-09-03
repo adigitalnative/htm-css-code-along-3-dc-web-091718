@@ -34,6 +34,12 @@ figcaption {
   font-family: "Delius Swash Caps", cursive;
 }
 
-#details a:link {
-  
+#details a:link, #details a:visited {
+  color: black;
+  text-decoration: underline;
+}
+
+#details a:hover {
+  color: black;
+  text-decoration: underline;
 }
