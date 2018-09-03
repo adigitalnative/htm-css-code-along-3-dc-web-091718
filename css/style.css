@@ -36,7 +36,7 @@ figcaption {
 
 #details a:link, #details a:visited {
   color: black;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 #details a:hover {
